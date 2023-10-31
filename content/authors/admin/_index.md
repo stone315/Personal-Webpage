@@ -10,12 +10,9 @@ education:
   - course: MSc in Electrical Engineering
     institution: Wichita State University
     year: January 2018 - May 2020
-  - course: BS in Electrical Engineering
+  - course: BS in Electrical Engineering and Mathematics
     institution: Wichita State University
     year: August 2013 - May 2017
-  - course: BS in Mathematics
-     institution: Wichita State University
-     year: August 2013 - May 2017
 email: "cshek1@umd.edu"
 interests:
 - Multi-agent Reinforcement Learning 
