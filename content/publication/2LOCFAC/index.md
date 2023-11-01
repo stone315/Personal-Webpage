@@ -17,25 +17,16 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/niksirbi/pcarpet
-- name: Data
-  url: https://doi.org/10.5281/zenodo.5565305
-- icon: youtube
-  icon_pack: fab
-  name: Talk
-  url: https://youtu.be/MoJ3HNUT4Lc
+- ""
 projects:
 - BS
 publication: ""
 publication_short: ""
 publication_types:
-- "2"
+- ""
 publishDate: ""
 slides: 
-summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
+summary: We present a novel cooperative multi-agent reinforcement learning method called Locality based Factorized Multi-Agent Actor-Critic (Loc-FACMAC).
 tags:
 - "Under Review"
 title: "Loc-FACMAC : Locality Based Factorized Multi-Agent Actor-Critic Algorithm for Cooperative Tasks"
