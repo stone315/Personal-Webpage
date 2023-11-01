@@ -1,46 +1,34 @@
 ---
-abstract: "During deep anesthesia, the electroencephalographic (EEG) signal of the brain alternates between bursts of activity and periods of relative silence (suppressions). The origin of burst-suppression and its distribution across the brain remain matters of debate. In this work, we used functional magnetic resonance imaging (fMRI) to map the brain areas involved in anesthesia-induced burst-suppression across four mammalian species: humans, long-tailed macaques, common marmosets, and rats. At first, we determined the fMRI signatures of burst-suppression in human EEG-fMRI data. Applying this method to animal fMRI datasets, we found distinct burst-suppression signatures in all species. The burst-suppression maps revealed a marked inter-species difference: in rats the entire neocortex engaged in burst-suppression, while in primates most sensory areas were excluded—predominantly the primary visual cortex. We anticipate that the identified species-specific fMRI signatures and whole-brain maps will guide future targeted studies investigating the cellular and molecular mechanisms of burst-suppression in unconscious states."
+abstract: "The number of Electric Vehicles in usage has been increasing and this trend creates a lot of challenges to the existing power grid. The advancements in the communication and control infrastructure have made applications such as real time charge 
+scheduling of the Electric Vehicles possible. The main issue in case of Electric Vehicle charge scheduling is the scalability and the uncertainty concerning the customer charging patterns. In this work, a decentralized node level clustering technique based on customers 
+charging pattern has been developed. An Integer Linear programming scheme is used to schedule the Electric Vehicles in each group separately. The detailed study of the effectiveness of the method developed is also presented in the paper. "
 authors:
 - admin
-- Judith Mylius
-- Michael Ortiz-Rios
-- Jürgen Baudewig
-- Jaakko Paasonen
-- Daniel Golkowski
-- Andreas Ranft
-- Rüdiger Ilg
-- Olli Gröhn
-- Susann Boretius
-date: "2022-05-24T00:00:00Z"
-doi: "10.7554/eLife.74813"
+- Arun-Kaarthick Manoharan
+- Srikanth Gampa
+- Thejas Chandrappa and
+date: "2019-10-13T00:00:00Z"
+doi: ""
 featured: true
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/niksirbi/pcarpet
-- name: Data
-  url: https://doi.org/10.5281/zenodo.5565305
-- icon: youtube
-  icon_pack: fab
-  name: Talk
-  url: https://youtu.be/MoJ3HNUT4Lc
+- name: Web
+  url: ""
 projects:
 - BS
-publication: "eLife"
-publication_short: "eLife"
+publication: ""
+publication_short: ""
 publication_types:
-- "2"
-publishDate: "2022-05-24T00:00:00Z"
+- "1"
+publishDate: "2019-10-13T00:00:00Z"
 slides: 
-summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
+summary:  A decentralized node level clustering technique based on customers charging pattern has been developed. . 
 tags:
-- published
-title: Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents
+- "published"
+title: "A Diversity-Based Clustering Technique For Implementing Decentralized Node Level Charge Scheduling Of Electric Vehicles"
 url_code: ""
 url_dataset: ""
 url_pdf: ""
