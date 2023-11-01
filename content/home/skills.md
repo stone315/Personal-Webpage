@@ -30,6 +30,6 @@ subtitle = ""
   icon = "language"
   icon_pack = "fa"
   name = "Languages"
-  description = "English,  Chinese,"
+  description = "English,  Chinese"
 
 +++
