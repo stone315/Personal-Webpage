@@ -26,7 +26,7 @@ publication_types:
 - "1"
 publishDate: "2019-10-13T00:00:00Z"
 slides: 
-summary:  A decentralized node level clustering technique based on customers charging pattern has been developed. . 
+summary:  "A decentralized node level clustering technique based on customers charging pattern has been developed."
 tags:
 - "published"
 title: "A Diversity-Based Clustering Technique For Implementing Decentralized Node Level Charge Scheduling Of Electric Vehicles"
