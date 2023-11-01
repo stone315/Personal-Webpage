@@ -9,9 +9,9 @@ authors:
 - Priya Narayanan
 - Dinesh Manocha
 - Pratap Tokekar
-date: "October 2023"
+date: "2023-10-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ""
@@ -25,7 +25,7 @@ publication: ""
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "October 2023"
+publishDate: "2023-10-01T00:00:00Z"
 slides: 
 summary: We present a novel cooperative multi-agent reinforcement learning method called Locality based Factorized Multi-Agent Actor-Critic (Loc-FACMAC).
 tags:
