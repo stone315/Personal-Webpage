@@ -1,46 +1,31 @@
 ---
-abstract: "During deep anesthesia, the electroencephalographic (EEG) signal of the brain alternates between bursts of activity and periods of relative silence (suppressions). The origin of burst-suppression and its distribution across the brain remain matters of debate. In this work, we used functional magnetic resonance imaging (fMRI) to map the brain areas involved in anesthesia-induced burst-suppression across four mammalian species: humans, long-tailed macaques, common marmosets, and rats. At first, we determined the fMRI signatures of burst-suppression in human EEG-fMRI data. Applying this method to animal fMRI datasets, we found distinct burst-suppression signatures in all species. The burst-suppression maps revealed a marked inter-species difference: in rats the entire neocortex engaged in burst-suppression, while in primates most sensory areas were excluded—predominantly the primary visual cortex. We anticipate that the identified species-specific fMRI signatures and whole-brain maps will guide future targeted studies investigating the cellular and molecular mechanisms of burst-suppression in unconscious states."
+abstract: "The significant growth in the number of electric vehicles indicates an increased demand on the power distribution system, specifically on the low-voltage residential network. Without a wellorganized schedule for charging electric vehicles, users will typically apply immediate charging upon arrival to home. This may burden the system and may damage power system equipment. To avoid this adverse effect on the system, a process of scheduling electric vehicle charging should be established. This paper proposes a multi-agent based distributed computing process for solving the electric vehicle charge scheduling problem in a secure way that benefits both the customer and the system. This process breaks down the problem into to global and local problem with the former for system objective and the latter for individual vehicle owners’ objective. In this work, the local problems are modeled as sub gradient problems that can be solved simultaneously by corresponding agents. The optimality of the sub gradient solutions with respect to global objective are made sure through information sharing between the agents during each iteration. The detailed modeling and implementation of the proposed method along with numerical analysis to demonstrate the effectiveness are presented in the paper."
 authors:
 - admin
-- Judith Mylius
-- Michael Ortiz-Rios
-- Jürgen Baudewig
-- Jaakko Paasonen
-- Daniel Golkowski
-- Andreas Ranft
-- Rüdiger Ilg
-- Olli Gröhn
-- Susann Boretius
-date: "2022-05-24T00:00:00Z"
-doi: "10.7554/eLife.74813"
+- Arun-Kaarthick Manoharan
+- Visvakumar Aravinthan
+date: "2021-04-11T00:00:00Z"
+doi: ""
 featured: true
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 links:
-- icon: github
-  icon_pack: fab
-  name: Code
-  url: https://github.com/niksirbi/pcarpet
-- name: Data
-  url: https://doi.org/10.5281/zenodo.5565305
-- icon: youtube
-  icon_pack: fab
-  name: Talk
-  url: https://youtu.be/MoJ3HNUT4Lc
+- name: Web
+  url: ""
 projects:
 - BS
-publication: "eLife"
-publication_short: "eLife"
+publication: ""
+publication_short: ""
 publication_types:
-- "2"
-publishDate: "2022-05-24T00:00:00Z"
+- "1"
+publishDate: "2021-04-11T00:00:00Z"
 slides: 
-summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
+summary: "This paper proposes a multi-agent based distributed computing process for solving the electric vehicle charge scheduling problem in a secure way that benefits both the customer and the system."
 tags:
-- published
-title: Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents
+- "published"
+title: "Optimization of electric vehicle charging schedule using distributed network computing"
 url_code: ""
 url_dataset: ""
 url_pdf: ""
