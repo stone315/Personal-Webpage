@@ -30,13 +30,13 @@ links:
   url: https://youtu.be/MoJ3HNUT4Lc
 projects:
 - BS
-publication: ""
-publication_short: ""
+publication: "eLife"
+publication_short: "eLife"
 publication_types:
 - "2"
-publishDate: ""
+publishDate: "2022-05-24T00:00:00Z"
 slides: 
-summary: ""
+summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
 tags:
 - published
 title: Loc-FACMAC: Locality Based Factorized Multi-Agent Actor-Critic Algorithm for Cooperative Task
