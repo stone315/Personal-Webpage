@@ -40,7 +40,7 @@ slides:
 summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
 tags:
 - published
-title: Loc-FACMAC: Locality Based Factorized Multi-Agent Actor-Critic Algorithm for Cooperative Task
+title: Spatial signatures of anesthesia-induced burst-suppression differ between primates and rodents
 url_code: ""
 url_dataset: ""
 url_pdf: ""
