@@ -21,12 +21,12 @@ interests:
 name: Chak Lam Shek
 organizations:
 - name: RAASlab
-  url: "https://http://raaslab.org/"
+  url: "http://raaslab.org/"
 role: 3rd year Ph.D. Student
 social:
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/lucashek
+  link: https://www.linkedin.com/in/lucashek
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Hlkem94AAAAJ&hl=en&oi=ao
