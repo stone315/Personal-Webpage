@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: medical doctor turned neuroscientist and image analyst.
+bio: Machine Learning Engineer
 education:
   courses:
   - course: Ph.D. in Electrical Engineering
@@ -20,15 +20,11 @@ interests:
 - LLM Assisted Reinforcement Learning
 name: Chak Lam Shek
 organizations:
-- name: Sainsbury Wellcome Centre
-  url: "https://www.sainsburywellcome.org/web/"
-- name: Gatsby Computational Neuroscience Unit
-  url: "https://www.ucl.ac.uk/gatsby/"
-- name: University College London (UCL)
-  url: "https://www.ucl.ac.uk/"
-role: Research Software Engineer
+- name: RAASlab
+  url: "https://http://raaslab.org/"
+role: 3rd year Ph.D. Student
 social:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/lucashek
 - icon: google-scholar
@@ -43,10 +39,7 @@ user_groups:
 - Visitors
 ---
 
-I am Chak Lam Shek, currently a 3rd year Electrical Engineering Ph.D. student at the University of Maryland, College Park (UMD) from Fall 2021. My current research focusses on  
-I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+I am Chak Lam Shek, currently a 3rd-year Electrical Engineering Ph.D. student at the University of Maryland, College Park (UMD) since Fall 2021. Under the guidance of Professor [Pratap Tokekar](https://www.cs.umd.edu/people/tokekar), my research primarily revolves around the design of planning and reinforcement learning algorithms. I have a particular interest in solving multiple-agent reinforcement learning problems. My work delves into creating frameworks to enhance agent coordination and improving exploration strategies for efficiency. Additionally, I have a keen interest in integrating Large Language Models (LLM) into the reinforcement learning process to adapt to various environmental challenges.
 
-I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
 
-I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
 
