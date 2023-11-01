@@ -10,8 +10,8 @@ authors:
 - Priya Narayanan
 - Dinesh Manocha
 - Pratap Tokekar
-date: ""
-doi: ""
+date: "2022-05-24T00:00:00Z"
+doi: "10.7554/eLife.74813"
 featured: true
 image:
   caption: ''
@@ -38,7 +38,7 @@ publishDate: ""
 slides: 
 summary: ""
 tags:
-- Under Review
+- published
 title: Loc-FACMAC: Locality Based Factorized Multi-Agent Actor-Critic Algorithm for Cooperative Task
 url_code: ""
 url_dataset: ""
