@@ -9,9 +9,9 @@ authors:
 - Priya Narayanan
 - Dinesh Manocha
 - Pratap Tokekar
-date: ""
+date: "#"
 doi: ""
-featured: true
+featured: False
 image:
   caption: ''
   focal_point: ""
