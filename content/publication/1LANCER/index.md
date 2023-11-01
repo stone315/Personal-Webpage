@@ -18,7 +18,7 @@ links:
 - name: Web
   url: ""
 projects:
-- BS
+- BS2
 publication: ""
 publication_short: ""
 publication_types:
