@@ -6,7 +6,7 @@ authors:
 - Xiyang Wu
 - Dinesh Manocha
 - Pratap Tokekar
--Amrit Singh Bedi
+- Amrit Singh Bedi
 date: "2023-10-01T00:00:00Z"
 doi: ""
 featured: true
