@@ -6,7 +6,8 @@ authors:
 - admin
 - Arun-Kaarthick Manoharan
 - Srikanth Gampa
-- Thejas Chandrappa and
+- Thejas Chandrappa
+- Visvakumar Aravinthan
 date: "2019-10-13T00:00:00Z"
 doi: ""
 featured: true
