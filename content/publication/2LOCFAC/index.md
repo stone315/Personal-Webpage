@@ -10,8 +10,8 @@ authors:
 - Priya Narayanan
 - Dinesh Manocha
 - Pratap Tokekar
-date: "2022-05-24T00:00:00Z"
-doi: "10.7554/eLife.74813"
+date: ""
+doi: ""
 featured: true
 image:
   caption: ''
@@ -28,10 +28,12 @@ links:
   icon_pack: fab
   name: Talk
   url: https://youtu.be/MoJ3HNUT4Lc
-projects:""
+projects:
+- BS
 publication: ""
 publication_short: ""
-publication_types:""
+publication_types:
+- "2"
 publishDate: ""
 slides: 
 summary: ""
