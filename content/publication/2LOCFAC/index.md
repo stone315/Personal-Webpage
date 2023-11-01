@@ -9,8 +9,8 @@ authors:
 - Priya Narayanan
 - Dinesh Manocha
 - Pratap Tokekar
-date: "2022-05-24T00:00:00Z"
-doi: "10.7554/eLife.74813"
+date: ""
+doi: ""
 featured: true
 image:
   caption: ''
@@ -29,11 +29,11 @@ links:
   url: https://youtu.be/MoJ3HNUT4Lc
 projects:
 - BS
-publication: "eLife"
-publication_short: "eLife"
+publication: ""
+publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-05-24T00:00:00Z"
+publishDate: ""
 slides: 
 summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
 tags:
