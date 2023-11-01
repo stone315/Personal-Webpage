@@ -10,7 +10,7 @@ authors:
 - Priya Narayanan
 - Dinesh Manocha
 - Pratap Tokekar
-- 
+
 date: ""
 doi: ""
 featured: true
@@ -18,16 +18,5 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-links:""
-publishDate: ""
-slides: ""
-tags:""
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+
 ---
