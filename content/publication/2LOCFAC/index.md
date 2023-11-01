@@ -2,15 +2,13 @@
 abstract: "In this work, we present a novel cooperative multi-agent reinforcement learning method called Locality based Factorized Multi-Agent Actor-Critic (Loc-FACMAC). The existing state-of-the-art algorithms, such as FACMAC, rely on the global reward information for critic training. However, in a distributed multi-agent system, the global reward is overgeneralized. The global reward cannot accurately reflect the influence of individual agents' actions, resulting in the mixer's poor performance in assigning credit. We introduce the idea of locality into critic learning to connect the strongly related agents into partitions. Agents in the same partition have a more significant impact retained within the partition itself. Thus, agents learning from the local reward can provide a more precise evaluation of the policy. This technique prevents the agent using information from unrelated agents and also helps to deal with the curse of dimensionality due to multiple agents. Loc-FACMAC further improves the efficiency of learning by introducing locality to the actor update as well. We evaluate the performance of Loc-FACMAC on three environments: Multi-cartpole, the StarCraft Multi-Agent Challenge, and Bounded-Cooperative-Navigation. We explore the impact of partition sizes on the performance and compare the result with baseline MARL algorithms such as LOMAQ, FACMAC, and QMIX. The experiments reveal that, if the locality structure is defined properly, Loc-FACMAC outperforms these baseline algorithms up to 45% , indicating that exploiting the locality structure in the actor-critic framework improves the MARL performance."
 authors:
 - admin
-- Judith Mylius
-- Michael Ortiz-Rios
-- Jürgen Baudewig
-- Jaakko Paasonen
-- Daniel Golkowski
-- Andreas Ranft
-- Rüdiger Ilg
-- Olli Gröhn
-- Susann Boretius
+- Amrit Singh Bedi
+- Anjon Basak
+- Ellen Novoseller
+- Nick Waytowich
+- Priya Narayanan
+- Dinesh Manocha
+- Pratap Tokekar
 date: "2022-05-24T00:00:00Z"
 doi: "10.7554/eLife.74813"
 featured: true
@@ -31,12 +29,13 @@ links:
   url: https://youtu.be/MoJ3HNUT4Lc
 projects:
 - BS
-publication: ""
-publication_short: ""
+publication: "eLife"
+publication_short: "eLife"
 publication_types:
-publishDate: ""
+- "2"
+publishDate: "2022-05-24T00:00:00Z"
 slides: 
-summary: ""
+summary: We used fMRI to map the spatial distribution of anesthesia-induced burst-suppression across the brain of four mammalian species and identified differences between primates and rodents.
 tags:
 - "Under Review"
 title: "Loc-FACMAC : Locality Based Factorized Multi-Agent Actor-Critic Algorithm for Cooperative Tasks"
