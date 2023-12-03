@@ -33,9 +33,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/stone315
-- icon: file
-  icon_pack: fab
-  link: "files/unoffical transcript.pdf"
 superuser: true
 user_groups:
 - Researchers
