@@ -7,7 +7,7 @@ authors:
 - Guangyao Shi
 - Troi Williams1
 - Pratap Tokekar
-date: "2025-8-01T00:00:00Z"
+date: "2025-08-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -23,7 +23,7 @@ publication: ""
 publication_short: ""
 publication_types:
 - "1"
-publishDate: "2025-8-01T00:00:00Z"
+publishDate: "2025-08-01T00:00:00Z"
 slides: 
 summary: "We present a sequential decision making strategy that decides which environmental contexts, using Bayesian Optimization with a Gaussian Process, to collect data from in order to ensure robust performance across a wide range of contexts."
 tags:
