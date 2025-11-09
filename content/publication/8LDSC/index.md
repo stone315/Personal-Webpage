@@ -3,7 +3,7 @@ abstract: "Large Language Models (LLMs) have shown remarkable promise in reasoni
 authors:
 - admin
 - Pratap Tokekar
-date: "2025-5-01T00:00:00Z"
+date: "2025-05-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -19,7 +19,7 @@ publication: ""
 publication_short: ""
 publication_types:
 - "1"
-publishDate: "2025-4-01T00:00:00Z"
+publishDate: "2025-04-01T00:00:00Z"
 slides: 
 summary: "We introduce a three-stage framework that uses LLMs for subgoal generation given natural language description of the task, a reusable option learning and selection method, and an action-level policy, enabling more effective decision-making across diverse tasks."
 tags:
