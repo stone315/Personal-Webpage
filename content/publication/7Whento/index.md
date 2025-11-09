@@ -25,7 +25,7 @@ publishDate: "2024-10-01T00:00:00Z"
 slides: 
 summary: "We present RiskRL, a constrained Reinforcement Learning (RL) framework that overcomes these limitations. RiskRL uses particle filtering and recurrent Soft Actor-Critic network to learn a policy that minimizes the number of localizations while ensuring the probability of failure constraint is met."
 tags:
-- "ACC 2026"
+- "ACC 2024"
 title: "When to Localize? A Risk-Constrained  Reinforcement Learning Approach"
 url_code: ""
 url_dataset: ""
