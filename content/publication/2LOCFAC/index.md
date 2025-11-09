@@ -29,7 +29,7 @@ publishDate: "2023-10-01T00:00:00Z"
 slides: 
 summary: We present a novel cooperative multi-agent reinforcement learning method called Locality based Factorized Multi-Agent Actor-Critic (Loc-FACMAC).
 tags:
-- "Under Review"
+- "Accepted by RA-L"
 title: "Loc-FACMAC : Locality Based Factorized Multi-Agent Actor-Critic Algorithm for Cooperative Tasks"
 url_code: ""
 url_dataset: ""
