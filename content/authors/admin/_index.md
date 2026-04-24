@@ -45,5 +45,7 @@ I am Chak Lam Shek, currently a fifth-year Electrical Engineering Ph.D. student 
 Additionally, I have a keen interest in integrating Large Language Models (LLM) and World Model into the reinforcement learning process to adapt to various environmental challenges. Recently, my work has extended to applying Diffusion Models for autonomous vehicles and robotic systems, aiming to improve both planning and state estimation capabilities.
 My research has been published in top robotics and machine learning conferences and journals, including ACC, IROS, RA-L, and MRS. Outside of research, I have also demonstrated strong data analysis and problem-solving skills, earning first place in the Schofield Datathon in 2015.
 
+Beyond research, I enjoy exploring different cultures through cooking, especially by experimenting with dishes from around the world. I’m also an avid fan of strategy games, where planning, adaptation, and long-term decision-making play a central role. These interests have subtly shaped my perspective on AI—particularly in areas like planning, coordination, and learning under uncertainty—by reinforcing the importance of structured reasoning and creative problem-solving in complex environments.
+
 
 
