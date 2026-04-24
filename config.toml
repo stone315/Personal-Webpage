@@ -1,21 +1,23 @@
-# Basic site settings
+############################
+## Basic Site Settings ##
+############################
+
 baseURL = "https://your-site.netlify.app/"
 title = "My Website"
 theme = "hugo-academic"
 
-googleAnalytics = ""
-
-############################
-## Core settings ##
-############################
-
+languageCode = "en-us"
 defaultContentLanguage = "en"
-hasCJKLanguage = false
-defaultContentLanguageInSubdir = false
-removePathAccents = true
 
-paginate = 10
 enableEmoji = true
+paginate = 10
+
+############################
+## Build & Processing ##
+############################
+
+enableGitInfo = false
+removePathAccents = true
 
 ignoreFiles = [
   "\\.ipynb$",
@@ -27,7 +29,7 @@ ignoreFiles = [
 ]
 
 ############################
-## Output settings ##
+## Outputs ##
 ############################
 
 [outputs]
@@ -35,13 +37,13 @@ ignoreFiles = [
   section = ["HTML", "RSS"]
 
 ############################
-## Modern Markdown (Goldmark)
+## Markdown (IMPORTANT for old Academic)
 ############################
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true  # allows HTML in markdown
+[blackfriday]
+  hrefTargetBlank = true
+  angledQuotes = false
+  latexDashes = true
 
 ############################
 ## Imaging ##
@@ -50,7 +52,6 @@ ignoreFiles = [
 [imaging]
   resampleFilter = "lanczos"
   quality = 90
-  anchor = "smart"
 
 ############################
 ## Taxonomies ##
