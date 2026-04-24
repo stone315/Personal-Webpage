@@ -2,7 +2,7 @@
 ## Basic Site Settings ##
 ############################
 
-baseURL = "https://your-site.netlify.app/"
+baseURL = "https://your-actual-site.netlify.app/"  # TODO: Replace with your real Netlify URL
 title = "My Website"
 theme = "hugo-academic"
 
@@ -37,13 +37,17 @@ ignoreFiles = [
   section = ["HTML", "RSS"]
 
 ############################
-## Markdown (IMPORTANT for old Academic)
+## Markdown ##
 ############################
 
-[blackfriday]
-  hrefTargetBlank = true
-  angledQuotes = false
-  latexDashes = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows raw HTML in markdown (replaces blackfriday hrefTargetBlank)
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    style = "monokai"
 
 ############################
 ## Imaging ##
