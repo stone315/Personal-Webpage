@@ -39,6 +39,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{< video library="true" src="presentation.mp4" controls="yes" >}}
-
+<video width="100%" controls>
+  <source src="/media/presentation.mp4" type="video/mp4">
+</video>
