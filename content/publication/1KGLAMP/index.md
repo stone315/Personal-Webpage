@@ -39,3 +39,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+
+{{< video library="true" src="presentation.mp4" controls="yes" >}}
+
