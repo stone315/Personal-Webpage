@@ -16,7 +16,7 @@ education:
 email: "cshek1@umd.edu"
 interests:
 - Multi-agent Reinforcement Learning 
-- LLM for Planning
+- LLM/VLA for Planning
 - LLM Assisted Reinforcement Learning
 - Diffusion Model for Planning and State Estimation
 - World Model
