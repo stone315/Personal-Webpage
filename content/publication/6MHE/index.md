@@ -3,7 +3,7 @@ abstract: "Adaptive controllers on quadrotors typically rely on estimation of di
 authors:
 - admin
 - Kasra Torshizi
-- Khuzema Habib1
+- Khuzema Habib
 - Guangyao Shi
 - Troi Williams
 - Pratap Tokekar
