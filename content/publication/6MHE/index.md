@@ -5,7 +5,7 @@ authors:
 - Kasra Torshizi
 - Khuzema Habib1
 - Guangyao Shi
-- Troi Williams1
+- Troi Williams
 - Pratap Tokekar
 date: "2025-08-01T00:00:00Z"
 doi: ""
