@@ -10,10 +10,6 @@ authors:
 date: "2026-03-01T00:00:00Z"
 doi: ""
 featured: true
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
 video:
   caption: ""
   focal_point: ""
@@ -32,7 +28,7 @@ publishDate: "2026-03-01T00:00:00Z"
 slides: 
 summary: "We introduce KGLAMP, a knowledge-graph-guided LLM planning framework for heterogeneous multi-robot teams. The framework maintains a structured knowledge graph encoding object relations, spatial reachability, and robot capabilities, which guides the LLM in generating accurate PDDL problem specifications."
 tags:
-- "Submitted to ICRA 2026"
+- "Submitted to RAL"
 title: "KGLAMP: Knowledge Graph-guided Language model for Adaptive Multi-robot Planning and Replanning"
 url_code: ""
 url_dataset: ""
