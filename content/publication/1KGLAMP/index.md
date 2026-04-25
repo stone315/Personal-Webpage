@@ -14,6 +14,11 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
+video:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: presentation.mp4 
 links:
 - name: Web
   url: "https://arxiv.org/abs/2602.04129"
